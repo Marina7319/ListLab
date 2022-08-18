@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\bin\Debug\net5.0\Gauss'Trick.exe
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\bin\Debug\net5.0\Gauss'Trick.deps.json
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\bin\Debug\net5.0\Gauss'Trick.runtimeconfig.json
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\bin\Debug\net5.0\Gauss'Trick.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\bin\Debug\net5.0\Gauss'Trick.dll
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\bin\Debug\net5.0\ref\Gauss'Trick.dll
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\bin\Debug\net5.0\Gauss'Trick.pdb
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\obj\Debug\net5.0\Gauss'Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\obj\Debug\net5.0\Gauss'Trick.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\obj\Debug\net5.0\Gauss'Trick.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\obj\Debug\net5.0\Gauss'Trick.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\obj\Debug\net5.0\Gauss'Trick.dll
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\obj\Debug\net5.0\ref\Gauss'Trick.dll
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\obj\Debug\net5.0\Gauss'Trick.pdb
+C:\Users\Marina\source\repos\ListLap\Gauss'Trick\obj\Debug\net5.0\Gauss'Trick.genruntimeconfig.cache

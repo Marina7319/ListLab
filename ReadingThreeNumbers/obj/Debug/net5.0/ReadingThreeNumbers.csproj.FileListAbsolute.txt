@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\bin\Debug\net5.0\ReadingThreeNumbers.exe
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\bin\Debug\net5.0\ReadingThreeNumbers.deps.json
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\bin\Debug\net5.0\ReadingThreeNumbers.runtimeconfig.json
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\bin\Debug\net5.0\ReadingThreeNumbers.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\bin\Debug\net5.0\ReadingThreeNumbers.dll
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\bin\Debug\net5.0\ref\ReadingThreeNumbers.dll
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\bin\Debug\net5.0\ReadingThreeNumbers.pdb
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\obj\Debug\net5.0\ReadingThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\obj\Debug\net5.0\ReadingThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\obj\Debug\net5.0\ReadingThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\obj\Debug\net5.0\ReadingThreeNumbers.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\obj\Debug\net5.0\ReadingThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\obj\Debug\net5.0\ReadingThreeNumbers.dll
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\obj\Debug\net5.0\ref\ReadingThreeNumbers.dll
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\obj\Debug\net5.0\ReadingThreeNumbers.pdb
+C:\Users\Marina\source\repos\ListLap\ReadingThreeNumbers\obj\Debug\net5.0\ReadingThreeNumbers.genruntimeconfig.cache

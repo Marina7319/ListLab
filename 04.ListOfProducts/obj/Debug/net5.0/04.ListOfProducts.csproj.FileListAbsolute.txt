@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\bin\Debug\net5.0\04.ListOfProducts.exe
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\bin\Debug\net5.0\04.ListOfProducts.deps.json
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\bin\Debug\net5.0\04.ListOfProducts.runtimeconfig.json
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\bin\Debug\net5.0\04.ListOfProducts.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\bin\Debug\net5.0\04.ListOfProducts.dll
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\bin\Debug\net5.0\ref\04.ListOfProducts.dll
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\bin\Debug\net5.0\04.ListOfProducts.pdb
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.dll
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\obj\Debug\net5.0\ref\04.ListOfProducts.dll
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.pdb
+C:\Users\Marina\source\repos\ListLap\04.ListOfProducts\obj\Debug\net5.0\04.ListOfProducts.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\bin\Debug\net5.0\03.MergingLists.exe
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\bin\Debug\net5.0\03.MergingLists.deps.json
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\bin\Debug\net5.0\03.MergingLists.runtimeconfig.json
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\bin\Debug\net5.0\03.MergingLists.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\bin\Debug\net5.0\03.MergingLists.dll
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\bin\Debug\net5.0\ref\03.MergingLists.dll
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\bin\Debug\net5.0\03.MergingLists.pdb
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\obj\Debug\net5.0\03.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\obj\Debug\net5.0\03.MergingLists.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\obj\Debug\net5.0\03.MergingLists.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\obj\Debug\net5.0\03.MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\obj\Debug\net5.0\03.MergingLists.dll
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\obj\Debug\net5.0\ref\03.MergingLists.dll
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\obj\Debug\net5.0\03.MergingLists.pdb
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\obj\Debug\net5.0\03.MergingLists.genruntimeconfig.cache
+C:\Users\Marina\source\repos\ListLap\03.MergingLists\obj\Debug\net5.0\03.MergingLists.csproj.AssemblyReference.cache

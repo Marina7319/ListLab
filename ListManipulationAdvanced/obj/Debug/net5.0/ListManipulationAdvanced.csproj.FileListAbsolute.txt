@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.exe
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.deps.json
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.runtimeconfig.json
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.dll
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\bin\Debug\net5.0\ref\ListManipulationAdvanced.dll
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.pdb
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.dll
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\obj\Debug\net5.0\ref\ListManipulationAdvanced.dll
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.pdb
+C:\Users\Marina\source\repos\ListLap\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.genruntimeconfig.cache
